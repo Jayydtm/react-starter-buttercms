@@ -3,3 +3,21 @@ last 1 chrome version",
       "last 1 safari version"
 
 v20.18.0
+import React from 'react';
+
+const Homepage = () => {
+  return (
+    <div>
+      <header>
+        <h1>Welcome to [Your Business Name]</h1>
+        <p>Your one-stop solution for [your services/products].</p>
+      </header>
+      <section>
+        <h2>About Us</h2>
+        <p>We specialize in [your niche]. Our goal is to [your mission].</p>
+      </section>
+    </div>
+  );
+};
+
+export default Homepage;
