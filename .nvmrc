@@ -9,7 +9,7 @@ const Homepage = () => {
   return (
     <div>
       <header>
-        <h1>Welcome to [Your Business Name]</h1>
+        <h1>Welcome to [Yves Business Name]</h1>
         <p>Your one-stop solution for [your services/products].</p>
       </header>
       <section>
