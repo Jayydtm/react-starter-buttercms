@@ -12,7 +12,7 @@ const Homepage = () => {
         <h1>Welcome to [Yves Business Name]</h1>
         <p>Your one-stop solution for [your services/products].</p>
       </header>
-      <section>
+	      <section>
         <h2>About Us</h2>
         <p>We specialize in [your niche]. Our goal is to [your mission].</p>
       </section>
